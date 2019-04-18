@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_9661f02e5abed8d5633cab521c56478639380a18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_339651f136fd0ee7150718edf0aaa0721240164e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.0_fc1fc5b835bd859b59bff55810860f68d9812330.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_5cdd1bdc447c9574237aed7888f9a6c68b29d453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_b2610a71f1facea82d38789aef13b795daff32c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_81ad4f65dfed89be2c42bb4510a82cf37d3a3b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_ec97300bb33f4fa108c4ab89610f30a28195f73d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_d590f8f72124a8e33ad4524fd7b44421c72bd5d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e6a83754c245d2df247c9ba981b381fb190a98d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_226ff5f885ae4b5101846f868c5aada85abecbe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_b2047eea7d84ec6698f2a0f6cd964d24e4fec4ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_1f360a2fd7b29d09a43d91879291dcea599966f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_90b34535aba7ea00d9f1b1ce7e09669fe64453af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c45e1ce13aedf17dc8b95e9d3f19e946ee59d07e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_2b00c73923185e3effd87ae0fdcff027d18fb7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_3f6821b1e0db76d2043efc0fd5a906062e5d7231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_76365227598cc923d43df947082d634476216b03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b13bd1c7a00c6021dacad55ccf126b4a75b93bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_df584c31c68b6eaefdf9c879ab9a34bb2f966abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_15fad5e8b4fc004c0644435311da10251f49b33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_902209d9f25c2acc0d81e5a71fca14d9eb8cbd95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_ac11ffd55d51013c3f6cf0cc5acd1bc90f91b1b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_aca17a3310fce9eeaff579edc28f63c4665f8a95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_d60d8f417405c6125dacd9a61b2b4b3a489cdc94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_26427693e4c03213f66579a90bb8317ee505246a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ioay\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_84e2941f991bd2ff741b31c4a86b016fd02bb710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_095ee10f6b2fa2477e4c8fad5895afa42d4eef17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.0_5a950a3d751dc90a4040be66b1f9f3153814e52e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_a13b0c38ff09e1b65e90e132c95a518fd60707eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\ReactNativeApps\ReactNativeSampleFirebase\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_e4966a6c62bfd97e6d67923325c4f2da59970149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c8727d443b5fd7563526ef665a47bb53effb3a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_9032883af986bcd35d0b6a9646f5bb6b0e3679b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_8bd8c1d0eedefacca1f3d05c9f5cdf837b3e1db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\ReactNativeApps\BetekEmployeeRegister\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_d13223e2e59f8931233a3fee72f6673f585b9abd.jar" />
+    </item>
+
+</items>
